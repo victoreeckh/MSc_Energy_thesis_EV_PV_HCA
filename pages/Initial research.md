@@ -1,0 +1,35 @@
+- ![Thesis Proposal Master Energ1.pdf](../assets/Thesis_Proposal_Master_Energ1_1697311749137_0.pdf)
+	- HC
+		- ((652aed17-dc7c-4e46-8588-989057354eb0))
+		-
+	- Research question
+		- ((652aec1d-60a4-4a24-8642-780c7c6971bc))
+- Some intial documents
+	- ![Spatial-Temporal_Deep_Learning_for_Hosting_Capacity_Analysis_in_Distribution_Grids.pdf](../assets/Spatial-Temporal_Deep_Learning_for_Hosting_Capacity_Analysis_in_Distribution_Grids_1697311871893_0.pdf)
+		- ((652aecbf-6ede-4658-af6d-0ff2a7ad49de))
+		- HC
+			- ((652aed3d-d633-43d4-aefa-9a75f7927c9d))
+		- Different HCA techniques
+			- ((652aed92-4f05-4784-9497-442c8199d9d1))
+			- time-series, ICA
+				- ((652aedef-c0bd-4977-80ec-08e476f7bf29))
+				- ((652aee7e-79a8-4337-91ef-f36b53a0d7ce))
+			- Machine Learning
+				- ((652af1d0-f03e-41d9-9d51-6149734905ac))
+				- ((652af369-9b4d-4816-9bdb-17551c159ec8))
+		- LSTM illustration
+			- time-series -> RNN
+				- ((652c3e7d-5187-4a56-9bb1-b1d668145f42))
+	- ![Electrical_Model-Free_Voltage_Calculations_Using_Neural_Networks_and_Smart_Meter_Data.pdf](../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Networks_and_Smart_Meter_Data_1697314312902_0.pdf)
+		-
+- Questions
+	- Only evaluation
+		- Evaluate in which dimensions?
+			- Accuracy (computed vs actual HC)
+			- Amount of network/bus violations (overvoltages etc.)
+			- Computational burden
+		- Evaluate different approaches
+			- e.g. different Deep learning algorithms
+	- Implementation?
+		- For what part will I have to dig into code? (github etc.)
+		- How is it/can it be integrated in Smart meters?
