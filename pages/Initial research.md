@@ -21,7 +21,7 @@
 			- time-series -> RNN
 				- ((652c3e7d-5187-4a56-9bb1-b1d668145f42))
 	- ![Electrical_Model-Free_Voltage_Calculations_Using_Neural_Networks_and_Smart_Meter_Data.pdf](../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Networks_and_Smart_Meter_Data_1697314312902_0.pdf)
-		- test
+		-
 - Questions
 	- Only evaluation
 		- Evaluate in which dimensions?
