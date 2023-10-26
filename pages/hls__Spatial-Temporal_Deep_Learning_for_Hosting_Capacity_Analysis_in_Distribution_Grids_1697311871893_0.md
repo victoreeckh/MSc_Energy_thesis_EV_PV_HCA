@@ -167,3 +167,8 @@ file-path:: ../assets/Spatial-Temporal_Deep_Learning_for_Hosting_Capacity_Analys
   hl-page:: 10
   hl-color:: yellow
   id:: 652c46db-3a66-4981-95c2-e583f05c9871
+- CYME 
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 653a5ea6-a19d-4c9a-83eb-b707d4637488
