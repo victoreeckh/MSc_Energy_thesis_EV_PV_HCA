@@ -18,3 +18,8 @@ file-path:: ../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Ne
   hl-color:: yellow
   id:: 653a6e37-3572-41c8-a007-b85b5b25a52f
   hl-stamp:: 1698328122210
+- An alternative
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 653a6f00-9e2f-473b-bb8c-6e6f3d86d89f
