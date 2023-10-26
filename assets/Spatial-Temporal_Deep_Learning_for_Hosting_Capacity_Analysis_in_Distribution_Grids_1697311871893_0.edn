@@ -1347,4 +1347,4 @@
                           :page 9},
                :content {:text "That is to say, the ST-LSTM model will increase the accuracy of HC calculation for different paths in the IEEE 123-bus feeder"},
                :properties {:color "yellow"}}],
- :extra {:page 9}}
+ :extra {:page 10}}
