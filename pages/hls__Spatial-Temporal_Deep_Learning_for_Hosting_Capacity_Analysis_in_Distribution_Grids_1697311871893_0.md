@@ -192,3 +192,8 @@ file-path:: ../assets/Spatial-Temporal_Deep_Learning_for_Hosting_Capacity_Analys
   hl-page:: 9
   hl-color:: yellow
   id:: 653a6603-41f7-42e8-b571-7bb36b73dab4
+- Notice, the sensitivity gate can signiﬁcantly decrease the percentage error.
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: yellow
+  id:: 653a6702-6d47-48da-9f38-b114cdaf7c12
