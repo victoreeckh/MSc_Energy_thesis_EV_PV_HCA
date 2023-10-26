@@ -95,3 +95,8 @@ file-path:: ../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Ne
   hl-page:: 5
   hl-color:: yellow
   id:: 653a8061-7f61-4c65-8f18-2ed94a229f47
+- L2 regularization to prevent overﬁtting
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 653a806a-7f5c-4135-aefe-fb922d991cbf
