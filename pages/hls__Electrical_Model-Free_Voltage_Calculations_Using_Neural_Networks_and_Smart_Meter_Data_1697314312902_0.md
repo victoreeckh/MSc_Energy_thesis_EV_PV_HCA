@@ -80,3 +80,18 @@ file-path:: ../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Ne
   hl-page:: 5
   hl-color:: yellow
   id:: 653a802b-ab5d-4d4a-bf4e-836fabc32e5e
+- a linear activation function
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 653a8055-59ad-4961-a22d-065c70b81b68
+- inputs and outputs are scaled to values within the range [0, 1]
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 653a805e-662d-49aa-be3f-9750636baf4b
+- ADAM optimize
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 653a8061-7f61-4c65-8f18-2ed94a229f47
