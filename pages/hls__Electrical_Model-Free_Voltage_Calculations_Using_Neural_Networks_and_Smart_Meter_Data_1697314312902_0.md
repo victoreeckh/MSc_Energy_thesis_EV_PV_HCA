@@ -28,3 +28,8 @@ file-path:: ../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Ne
   hl-page:: 2
   hl-color:: yellow
   id:: 653a6f6f-d37f-4e04-ba8b-ce9e7c17dfde
+- Nonetheless, the interactions with the upstream MV network were not considered
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 653a7094-f1e3-4292-90c4-7ddf3efddb3a
