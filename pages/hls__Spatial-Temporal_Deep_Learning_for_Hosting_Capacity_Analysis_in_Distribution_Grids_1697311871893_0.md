@@ -187,3 +187,8 @@ file-path:: ../assets/Spatial-Temporal_Deep_Learning_for_Hosting_Capacity_Analys
   hl-page:: 8
   hl-color:: yellow
   id:: 653a6448-09ef-438e-b8c5-3cf00b389998
+- That is to say, the ST-LSTM model will increase the accuracy of HC calculation for different paths in the IEEE 123-bus feeder
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: yellow
+  id:: 653a6603-41f7-42e8-b571-7bb36b73dab4
