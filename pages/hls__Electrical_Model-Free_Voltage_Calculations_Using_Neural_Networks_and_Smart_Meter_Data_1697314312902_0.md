@@ -12,3 +12,9 @@ file-path:: ../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Ne
   hl-page:: 1
   hl-color:: green
   id:: 653a6c83-5a32-41e7-8ea6-6e90002cf79b
+- However, the main challenge for distribution companies is that accurate voltage calculations require power ﬂow analyses that need detailed electrical models which, in the context of LV networks, are not readily available in most parts of the world. The associated data (e.g., topology, connectivity, phase grouping, impedances, etc.) is often erroneous or incomplete [5], [6] which makes the production of electrical models a very time-consuming and costly task
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 653a6e37-3572-41c8-a007-b85b5b25a52f
+  hl-stamp:: 1698328122210
