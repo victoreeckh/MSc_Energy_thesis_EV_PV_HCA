@@ -148,3 +148,8 @@ file-path:: ../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Ne
   hl-page:: 10
   hl-color:: green
   id:: 653a8bd3-41a6-4b52-87ba-2b9740857e0c
+- Speciﬁcally, it is shown that, for operation (short-term) applications, e.g., determine speciﬁc settings (PV curtailment or EV throttling, reactive power absorption or maximum import/export limits) to ensure compliance with statutory voltage limits, the most suitable NN architecture would be a conventional single-hidden layer NN. On the other hand, for planning (mid-, or long-term) applications, e.g., determine PV/EV hosting capacity or to assess PV/EV connection requests, the most suitable architecture would be the proposed multi-input multi-output NN
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: green
+  id:: 653a8c05-dbdc-4fd9-ad7d-9fcc36e67f25
