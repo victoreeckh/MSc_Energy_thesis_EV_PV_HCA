@@ -451,4 +451,4 @@
                           :page 2},
                :content {:text "This paper proposes a scalable methodology based on nonlinear regressions, speciﬁcally using Neural Networks (NNs), to calculate voltages without electrical models"},
                :properties {:color "yellow"}}],
- :extra {:page 2}}
+ :extra {:page 3}}
