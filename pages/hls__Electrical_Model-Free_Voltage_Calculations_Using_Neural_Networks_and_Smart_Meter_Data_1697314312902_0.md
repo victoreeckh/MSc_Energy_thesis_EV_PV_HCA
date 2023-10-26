@@ -1,0 +1,2 @@
+file:: [Electrical_Model-Free_Voltage_Calculations_Using_Neural_Networks_and_Smart_Meter_Data_1697314312902_0.pdf](../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Networks_and_Smart_Meter_Data_1697314312902_0.pdf)
+file-path:: ../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Networks_and_Smart_Meter_Data_1697314312902_0.pdf
