@@ -105,3 +105,8 @@ file-path:: ../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Ne
   hl-page:: 5
   hl-color:: yellow
   id:: 653a8088-719c-4953-ad2a-105108180927
+- hyperparameters (i.e., number of hidden layers, number of neurons and activation function in each hidden layer, learning rate, batch size, regularization factor, and epochs)
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 653a809a-fd96-4301-b818-4a7839ad95a5
