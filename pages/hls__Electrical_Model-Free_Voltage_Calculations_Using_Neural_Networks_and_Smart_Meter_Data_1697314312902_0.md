@@ -116,3 +116,9 @@ file-path:: ../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Ne
   hl-color:: green
   id:: 653a80c9-173e-4f5f-bbaa-4791f08724fa
   hl-stamp:: 1698332876045
+- real smart meter data from Victoria, Australia (anonymized halfhourly active power provided by AusNet Services) is used to run power ﬂow simulations in OpenDSS [42]
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: yellow
+  id:: 653a8364-a529-4933-9b07-6d10dc4d6921
+  hl-stamp:: 1698333543232
