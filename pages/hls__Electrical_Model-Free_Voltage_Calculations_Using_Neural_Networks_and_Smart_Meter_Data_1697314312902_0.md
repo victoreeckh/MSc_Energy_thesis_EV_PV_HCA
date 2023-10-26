@@ -50,3 +50,8 @@ file-path:: ../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Ne
   hl-page:: 3
   hl-color:: yellow
   id:: 653a7571-101c-4748-a73e-52baefe8cf7a
+- For the proposed model-free voltage calculations, the inputs for NNi are both the active and reactive power of all the customers, thus, the input layer dimension of NNi is twice the number of customers, i.e., 2|C|
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 653a763d-4f94-4978-9d36-50da61a76234
