@@ -33,3 +33,9 @@ file-path:: ../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Ne
   hl-page:: 2
   hl-color:: yellow
   id:: 653a7094-f1e3-4292-90c4-7ddf3efddb3a
+- It concluded that linear regressions and neural networks achieved the most accurate voltage calculations
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: red
+  id:: 653a70f8-af11-4b92-862d-4b86cf92d9ae
+  hl-stamp:: 1698328826380
