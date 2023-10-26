@@ -12,13 +12,3 @@ file-path:: ../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Ne
   hl-page:: 1
   hl-color:: green
   id:: 653a6c83-5a32-41e7-8ea6-6e90002cf79b
-- However, the main challenge for distribution companies is that accurate voltage calculations require power ﬂow analyses that need detailed electrical models which, in the context of LV networks, are not readily available in most parts of the world.
-  ls-type:: annotation
-  hl-page:: 1
-  hl-color:: green
-  id:: 653a6de4-22af-4d3f-bb71-daf1010a531c
-- However, the main challenge for dis
-  ls-type:: annotation
-  hl-page:: 1
-  hl-color:: green
-  id:: 653a6df8-193e-4015-a58b-099022296931
