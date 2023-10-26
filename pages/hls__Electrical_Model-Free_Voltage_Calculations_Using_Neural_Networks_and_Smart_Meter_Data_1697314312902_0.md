@@ -138,3 +138,8 @@ file-path:: ../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Ne
   hl-page:: 10
   hl-color:: green
   id:: 653a8a6f-f7d7-4dc1-bcc5-dd79d1b4327c
+- Additionally, it has been observed that the accuracy of the proposed methodology can increase considerably if voltages at the head of the LV network, i.e., at the secondary side of the distribution transformer, are available. This requires minimal adaptations on NN i.
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: green
+  id:: 653a8b8a-e4ca-43df-85b8-1b745fa89587
