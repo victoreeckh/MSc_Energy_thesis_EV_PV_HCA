@@ -110,3 +110,9 @@ file-path:: ../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Ne
   hl-page:: 5
   hl-color:: yellow
   id:: 653a809a-fd96-4301-b818-4a7839ad95a5
+- k-fold cross validation process is implemented
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: green
+  id:: 653a80c9-173e-4f5f-bbaa-4791f08724fa
+  hl-stamp:: 1698332876045
