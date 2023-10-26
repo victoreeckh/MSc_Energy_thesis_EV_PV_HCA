@@ -50,5 +50,5 @@
 		- For what part will I have to dig into code? (github etc.)
 		- How is it/can it be integrated in Smart meters?
 - Next reading
-	-
+	- S. Balduin, T. Westermann, and E. Puiutta, “Evaluating different machine learning techniques as surrogate for low voltage grids,” Energy Inform., vol. 3, p. 24, Oct. 2020.
 	-
