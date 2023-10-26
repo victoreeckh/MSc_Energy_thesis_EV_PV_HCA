@@ -100,3 +100,8 @@ file-path:: ../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Ne
   hl-page:: 5
   hl-color:: yellow
   id:: 653a806a-7f5c-4135-aefe-fb922d991cbf
+- regularization factor
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 653a8088-719c-4953-ad2a-105108180927
