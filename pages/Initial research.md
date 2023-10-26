@@ -27,7 +27,7 @@
 				- IEEE 123-bus feeder
 				- Arizona utility high penetration feeder
 		- Questions
-		- Input training data are vectors of voltage magnitudes and angles
+		- Input training data are vectors of voltage magnitudes and angles etc
 		- Why does longest path method work best?
 	- ![Electrical_Model-Free_Voltage_Calculations_Using_Neural_Networks_and_Smart_Meter_Data.pdf](../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Networks_and_Smart_Meter_Data_1697314312902_0.pdf)
 		-
