@@ -1,4 +1,5 @@
 - ![Thesis Proposal Master Energ1.pdf](../assets/Thesis_Proposal_Master_Energ1_1697311749137_0.pdf)
+  collapsed:: true
 	- HC
 		- ((652aed17-dc7c-4e46-8588-989057354eb0))
 		-
