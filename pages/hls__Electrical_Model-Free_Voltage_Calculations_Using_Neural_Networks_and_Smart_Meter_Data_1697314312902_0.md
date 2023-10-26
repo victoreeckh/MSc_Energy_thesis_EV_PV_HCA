@@ -22,3 +22,8 @@ file-path:: ../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Ne
   hl-page:: 1
   hl-color:: green
   id:: 653a6dea-cc09-47a5-9bb5-43edc57ee5b2
+- However, the main challenge for dis
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: green
+  id:: 653a6df8-193e-4015-a58b-099022296931
