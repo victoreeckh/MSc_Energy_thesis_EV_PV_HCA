@@ -154,3 +154,8 @@ file-path:: ../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Ne
   hl-color:: red
   id:: 653a8c05-dbdc-4fd9-ad7d-9fcc36e67f25
   hl-stamp:: 1698335751107
+- Additionally, it is shown that, once trained, the ﬁnal NN (either NN∗ or MNN∗) becomes a proxy for the conventional power ﬂow analyses required to calculate voltages and that can be much faster, representing an attractive alternative for distribution companies unable to produce accurate electrical models.
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: red
+  id:: 653a8c26-faf7-4438-a485-44b1ce8b193d
