@@ -75,3 +75,8 @@ file-path:: ../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Ne
   hl-page:: 5
   hl-color:: yellow
   id:: 653a7e5d-4ca5-40ef-8785-63230845e21c
+- inputs and outputs
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 653a802b-ab5d-4d4a-bf4e-836fabc32e5e
