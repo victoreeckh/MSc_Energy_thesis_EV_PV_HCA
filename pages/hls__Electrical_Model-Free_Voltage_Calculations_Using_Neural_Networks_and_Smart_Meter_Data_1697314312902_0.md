@@ -55,3 +55,8 @@ file-path:: ../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Ne
   hl-page:: 3
   hl-color:: yellow
   id:: 653a763d-4f94-4978-9d36-50da61a76234
+- For the present study, mini batch gradient descent is considered
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 653a7aa9-3d48-468f-9bc3-01fa7c8f5261
