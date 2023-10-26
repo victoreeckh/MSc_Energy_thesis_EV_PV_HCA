@@ -177,3 +177,8 @@ file-path:: ../assets/Spatial-Temporal_Deep_Learning_for_Hosting_Capacity_Analys
   hl-page:: 7
   hl-color:: yellow
   id:: 653a6158-0245-4918-95f6-efc4c68b21c4
+- o solve this problem for better performance, we continue to update our model using the new power ﬂow data and corresponding HC data.
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: yellow
+  id:: 653a6296-8e81-4242-bc82-7bab5b6a2b7d
