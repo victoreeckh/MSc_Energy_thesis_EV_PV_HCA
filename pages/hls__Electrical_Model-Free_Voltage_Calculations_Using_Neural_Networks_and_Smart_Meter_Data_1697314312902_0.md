@@ -23,3 +23,8 @@ file-path:: ../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Ne
   hl-page:: 1
   hl-color:: yellow
   id:: 653a6f00-9e2f-473b-bb8c-6e6f3d86d89f
+- The electrical model-free calculation of voltages is a topic that has only started to be explored in the last few years
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 653a6f6f-d37f-4e04-ba8b-ce9e7c17dfde
