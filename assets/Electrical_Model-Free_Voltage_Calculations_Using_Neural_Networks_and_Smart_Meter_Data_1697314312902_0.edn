@@ -181,4 +181,4 @@
                           :page 1},
                :content {:text "his paper proposes a scalable electrical model-free voltage calculation methodology that uses Neural Networks to capture the underlying relationships among historical smart meter data (P, Q, and V) and the corresponding LV network."},
                :properties {:color "green"}}],
- :extra {:page 3}}
+ :extra {:page 1}}
