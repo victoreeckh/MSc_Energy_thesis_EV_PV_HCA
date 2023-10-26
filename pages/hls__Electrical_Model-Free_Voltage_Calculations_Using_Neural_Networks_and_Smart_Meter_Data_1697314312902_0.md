@@ -70,3 +70,8 @@ file-path:: ../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Ne
   hl-page:: 4
   hl-color:: yellow
   id:: 653a7da9-b110-48db-a61b-d437280184e3
+- Therefore, the hyperparameters that are found to be the most suitable for a particular LV network will not work when using another LV network with different characteristics. Consequently, a scalable methodology to ﬁnd the most suitable NNs (i.e., NN∗ and MNN∗) is crucial so the same recipe can be applied by distribution companies on any type or size of LV network.
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 653a7e5d-4ca5-40ef-8785-63230845e21c
