@@ -698,4 +698,4 @@
                           :page 4},
                :content {:text "s its calculation is based on aggregated active and reactive power only and are used to include additional information into the formulation, i.e., relationships among P|Q∑ and V."},
                :properties {:color "yellow"}}],
- :extra {:page 6}}
+ :extra {:page 4}}
