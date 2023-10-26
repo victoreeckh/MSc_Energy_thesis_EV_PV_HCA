@@ -172,3 +172,8 @@ file-path:: ../assets/Spatial-Temporal_Deep_Learning_for_Hosting_Capacity_Analys
   hl-page:: 7
   hl-color:: yellow
   id:: 653a5ea6-a19d-4c9a-83eb-b707d4637488
+- overﬁtting risk
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 653a6158-0245-4918-95f6-efc4c68b21c4

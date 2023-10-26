@@ -1206,5 +1206,22 @@
                                    :height 1119.4117647058822}),
                           :page 7},
                :content {:text "CYME "},
+               :properties {:color "yellow"}}
+              {:id #uuid "653a6158-0245-4918-95f6-efc4c68b21c4",
+               :page 7,
+               :position {:bounding {:x1 524.4825439453125,
+                                     :y1 873.4765625,
+                                     :x2 608.2242431640625,
+                                     :y2 889.4765625,
+                                     :width 864.9999999999999,
+                                     :height 1119.4117647058822},
+                          :rects ({:x1 524.4825439453125,
+                                   :y1 873.4765625,
+                                   :x2 608.2242431640625,
+                                   :y2 889.4765625,
+                                   :width 864.9999999999999,
+                                   :height 1119.4117647058822}),
+                          :page 7},
+               :content {:text "overﬁtting risk"},
                :properties {:color "yellow"}}],
- :extra {:page 7}}
+ :extra {:page 8}}
