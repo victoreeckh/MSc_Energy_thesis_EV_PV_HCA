@@ -122,3 +122,8 @@ file-path:: ../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Ne
   hl-color:: yellow
   id:: 653a8364-a529-4933-9b07-6d10dc4d6921
   hl-stamp:: 1698333543232
+- The hyperparameter combination that achieves the lowest RMSE kfold for NN i and MNN i (0.2011 V and 0.1978 V, respectively) appear in bold in Table II.
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: red
+  id:: 653a862b-d0ac-4e46-8248-286ccc1751c2
