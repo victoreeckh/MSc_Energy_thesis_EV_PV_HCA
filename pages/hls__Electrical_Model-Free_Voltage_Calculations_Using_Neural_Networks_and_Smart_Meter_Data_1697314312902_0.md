@@ -39,3 +39,9 @@ file-path:: ../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Ne
   hl-color:: red
   id:: 653a70f8-af11-4b92-862d-4b86cf92d9ae
   hl-stamp:: 1698328826380
+- This paper proposes a scalable methodology based on nonlinear regressions, speciﬁcally using Neural Networks (NNs), to calculate voltages without electrical models
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 653a7232-7fa7-4c86-b643-33f13a3fa5f6
+  hl-stamp:: 1698329141251
