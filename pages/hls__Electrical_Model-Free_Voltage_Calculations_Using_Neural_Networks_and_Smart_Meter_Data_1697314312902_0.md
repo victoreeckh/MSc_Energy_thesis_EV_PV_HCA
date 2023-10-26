@@ -65,3 +65,8 @@ file-path:: ../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Ne
   hl-page:: 4
   hl-color:: yellow
   id:: 653a7b65-839d-4766-9b48-fbcdc4c2e099
+- s its calculation is based on aggregated active and reactive power only and are used to include additional information into the formulation, i.e., relationships among P|Q∑ and V.
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 653a7da9-b110-48db-a61b-d437280184e3
