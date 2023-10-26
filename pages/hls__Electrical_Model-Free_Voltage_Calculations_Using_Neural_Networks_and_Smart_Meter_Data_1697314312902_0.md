@@ -60,3 +60,8 @@ file-path:: ../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Ne
   hl-page:: 4
   hl-color:: yellow
   id:: 653a7aa9-3d48-468f-9bc3-01fa7c8f5261
+- To handle the use of additional information, a multi-input multi-output NN, hereafter referred to as MNN
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 653a7b65-839d-4766-9b48-fbcdc4c2e099
