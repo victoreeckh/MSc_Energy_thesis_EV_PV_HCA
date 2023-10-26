@@ -49,4 +49,6 @@
 	- Implementation?
 		- For what part will I have to dig into code? (github etc.)
 		- How is it/can it be integrated in Smart meters?
-		-
+- Next reading
+	-
+	-
