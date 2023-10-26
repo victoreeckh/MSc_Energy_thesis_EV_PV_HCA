@@ -7,7 +7,6 @@
 		- ((652aec1d-60a4-4a24-8642-780c7c6971bc))
 - Some intial documents
 	- ![Spatial-Temporal_Deep_Learning_for_Hosting_Capacity_Analysis_in_Distribution_Grids.pdf](../assets/Spatial-Temporal_Deep_Learning_for_Hosting_Capacity_Analysis_in_Distribution_Grids_1697311871893_0.pdf)
-	  collapsed:: true
 		- ((652aecbf-6ede-4658-af6d-0ff2a7ad49de))
 		- HC
 			- ((652aed3d-d633-43d4-aefa-9a75f7927c9d))
