@@ -133,3 +133,8 @@ file-path:: ../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Ne
   hl-color:: green
   id:: 653a8a22-5708-4bf4-80e7-d44dad27dce4
   hl-stamp:: 1698335269166
+- This, in turn, means that the NN∗ (or MNN∗) needs to be updated periodically with the latest data 
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: green
+  id:: 653a8a6f-f7d7-4dc1-bcc5-dd79d1b4327c
