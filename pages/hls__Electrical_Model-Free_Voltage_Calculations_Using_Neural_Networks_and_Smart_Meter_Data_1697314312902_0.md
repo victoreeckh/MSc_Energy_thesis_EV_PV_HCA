@@ -143,3 +143,8 @@ file-path:: ../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Ne
   hl-page:: 10
   hl-color:: green
   id:: 653a8b8a-e4ca-43df-85b8-1b745fa89587
+- Crucially, this paper accounts for the effects of the upstream MV network on LV network voltages and proposes two architectures of NNs that could be used for operation and planning applications: a conventional NN and a tailored multi-input multi-output NN.
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: green
+  id:: 653a8bd3-41a6-4b52-87ba-2b9740857e0c
