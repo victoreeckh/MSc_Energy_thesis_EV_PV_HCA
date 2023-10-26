@@ -127,3 +127,9 @@ file-path:: ../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Ne
   hl-page:: 6
   hl-color:: red
   id:: 653a862b-d0ac-4e46-8248-286ccc1751c2
+- Hence, the historical data needs to be preprocessed to delete instances with missing measurements. Because of this, the historical data set that can be used to produce the ﬁnal NN (either NN∗ or MNN∗) can end up being smaller than the original set.
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: green
+  id:: 653a8a22-5708-4bf4-80e7-d44dad27dce4
+  hl-stamp:: 1698335269166
