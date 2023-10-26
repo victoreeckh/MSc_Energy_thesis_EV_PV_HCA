@@ -569,4 +569,4 @@
                           :page 3},
                :content {:text "For the proposed model-free voltage calculations, the inputs for NNi are both the active and reactive power of all the customers, thus, the input layer dimension of NNi is twice the number of customers, i.e., 2|C|"},
                :properties {:color "yellow"}}],
- :extra {:page 3}}
+ :extra {:page 4}}
