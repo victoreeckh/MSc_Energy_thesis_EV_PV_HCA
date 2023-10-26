@@ -45,3 +45,8 @@ file-path:: ../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Ne
   hl-color:: yellow
   id:: 653a7232-7fa7-4c86-b643-33f13a3fa5f6
   hl-stamp:: 1698329141251
+- The output of a single neuron corresponds to an activation function applied over the weighted sum of its inputs shifted by a bias, as shown in 
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 653a7571-101c-4748-a73e-52baefe8cf7a
