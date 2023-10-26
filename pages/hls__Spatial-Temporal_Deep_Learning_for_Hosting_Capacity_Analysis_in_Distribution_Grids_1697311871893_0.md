@@ -182,3 +182,8 @@ file-path:: ../assets/Spatial-Temporal_Deep_Learning_for_Hosting_Capacity_Analys
   hl-page:: 8
   hl-color:: yellow
   id:: 653a6296-8e81-4242-bc82-7bab5b6a2b7d
+- owever, the direct model combination did not improve the learning performance in the IEEE 123-bus feeder
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: yellow
+  id:: 653a6448-09ef-438e-b8c5-3cf00b389998
