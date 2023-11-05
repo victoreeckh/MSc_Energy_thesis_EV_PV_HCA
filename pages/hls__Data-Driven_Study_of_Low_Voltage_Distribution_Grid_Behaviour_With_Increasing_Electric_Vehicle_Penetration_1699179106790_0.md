@@ -40,3 +40,9 @@ file-path:: ../assets/Data-Driven_Study_of_Low_Voltage_Distribution_Grid_Behavio
   hl-color:: blue
   id:: 65476f2a-97fd-4826-85ad-0ee435fa8fe4
   hl-stamp:: 1699180332263
+- The inﬂuence of data-driven uncertainties in driver behaviour and energy demand of the EVs toward the grid impact of uncontrolled charging is considered in [3], [4], [12], [13].
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 65476f36-f22d-4420-a11f-6172351756fd
+  hl-stamp:: 1699180343445
