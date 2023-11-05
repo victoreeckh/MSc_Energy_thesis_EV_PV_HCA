@@ -23,3 +23,8 @@ file-path:: ../assets/Data-Driven_Study_of_Low_Voltage_Distribution_Grid_Behavio
   hl-color:: yellow
   id:: 65476d78-bdc6-4a5d-928b-85adf759796d
   hl-stamp:: 1699179898360
+- can stress the facilitating distribution grid infrastructure, such that it can cause transformer overloading and lifetime The associate editor coordinating the review of this manuscript and approving it for publication was Nagesh Prabhu . reduction [2]–[4], [8], [9], line overloading [2], [4], [10], voltage drop below acceptable limits at the far-end of the feeder [2]–[4], [9], higher distribution losses [2]–[4], power mismatch between supply and demand, phase imbalance [4],[9], as well as harmonic distortion [11].
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 65476da3-82ef-47b2-933b-5ad8c6ad8512
