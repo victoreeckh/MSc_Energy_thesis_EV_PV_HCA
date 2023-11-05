@@ -49,7 +49,7 @@
 		-
 - Questions
 	- Intro chapters
-		- Penetration of EV-PV (DER) -> effect on
+		- Penetration of EV-PV (DER) -> effect on LV network constraints?
 	- Only evaluation?
 		- Evaluate in which dimensions?
 			- Accuracy (computed vs actual HC)
