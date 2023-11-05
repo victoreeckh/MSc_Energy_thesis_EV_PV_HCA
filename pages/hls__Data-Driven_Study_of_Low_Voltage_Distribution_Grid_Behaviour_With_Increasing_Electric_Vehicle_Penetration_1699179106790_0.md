@@ -51,3 +51,8 @@ file-path:: ../assets/Data-Driven_Study_of_Low_Voltage_Distribution_Grid_Behavio
   hl-page:: 2
   hl-color:: yellow
   id:: 65476f89-f50d-4126-949f-d7acbdb8a280
+- charging impact of 0 to 500 EVs in a modiﬁed IEEE 13-bus system as well as a 25-bus real Taiwan distribution system
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 65476fe1-09ff-4cdb-92cf-bca2fc3b7b74
