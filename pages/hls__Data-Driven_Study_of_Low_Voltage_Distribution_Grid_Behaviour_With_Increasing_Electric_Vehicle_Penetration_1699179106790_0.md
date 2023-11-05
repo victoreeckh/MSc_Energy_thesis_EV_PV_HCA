@@ -6,3 +6,8 @@ file-path:: ../assets/Data-Driven_Study_of_Low_Voltage_Distribution_Grid_Behavio
   hl-page:: 1
   hl-color:: yellow
   id:: 65476c5a-b106-411c-b1d0-9e599df40547
+- Three key congestion indicators, the transformer loading, line loading and node voltage as well as several other evaluation indexes are studied
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 65476c83-050e-416e-95db-465170c979d0
