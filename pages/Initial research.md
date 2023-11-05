@@ -48,7 +48,8 @@
 		-
 		-
 - Questions
-	- Only evaluation
+	-
+	- Only evaluation?
 		- Evaluate in which dimensions?
 			- Accuracy (computed vs actual HC)
 			- Amount of network/bus violations (overvoltages etc.)
