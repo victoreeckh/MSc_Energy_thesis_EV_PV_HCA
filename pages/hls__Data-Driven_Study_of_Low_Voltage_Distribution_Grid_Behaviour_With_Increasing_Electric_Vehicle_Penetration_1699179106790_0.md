@@ -46,3 +46,8 @@ file-path:: ../assets/Data-Driven_Study_of_Low_Voltage_Distribution_Grid_Behavio
   hl-color:: yellow
   id:: 65476f36-f22d-4420-a11f-6172351756fd
   hl-stamp:: 1699180343445
+- Monte Carlo simulations
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 65476f89-f50d-4126-949f-d7acbdb8a280
