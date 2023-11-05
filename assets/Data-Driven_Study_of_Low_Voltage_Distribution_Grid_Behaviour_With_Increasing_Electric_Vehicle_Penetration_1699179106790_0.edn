@@ -133,4 +133,4 @@
                           :page 1},
                :content {:text " The results reveal that the majority of the simulated grids had no or minor moments of mild overloading while the rest grids had critical issues. Among all the grids, suburban grids are most vulnerable to massive EV integration. Out of the evaluated grids, those who are located in Germany have the highest redundancy for high EV penetration accommodation. Overall, the impact of uncontrolled EV charging depends on the combination of EV charging demand as well as the grid inherent features."},
                :properties {:color "red"}}],
- :extra {:page 2}}
+ :extra {:page 1}}
