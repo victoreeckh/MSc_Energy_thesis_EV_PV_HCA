@@ -11,3 +11,9 @@ file-path:: ../assets/Data-Driven_Study_of_Low_Voltage_Distribution_Grid_Behavio
   hl-page:: 1
   hl-color:: yellow
   id:: 65476c83-050e-416e-95db-465170c979d0
+- The results reveal that the majority of the simulated grids had no or minor moments of mild overloading while the rest grids had critical issues. Among all the grids, suburban grids are most vulnerable to massive EV integration. Out of the evaluated grids, those who are located in Germany have the highest redundancy for high EV penetration accommodation. Overall, the impact of uncontrolled EV charging depends on the combination of EV charging demand as well as the grid inherent features.
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: red
+  id:: 65476ca3-8052-4d30-9c51-81f3312031ea
+  hl-stamp:: 1699179684834
