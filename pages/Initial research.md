@@ -55,7 +55,7 @@
 	- Intro chapters
 		- Penetration of EV-PV (DER) -> effect on LV network constraints?
 			- Distinction between different LV grids
-				- Geography,
+				- Geography, function
 	- Only evaluation?
 		- Evaluate in which dimensions?
 			- Accuracy (computed vs actual HC)
