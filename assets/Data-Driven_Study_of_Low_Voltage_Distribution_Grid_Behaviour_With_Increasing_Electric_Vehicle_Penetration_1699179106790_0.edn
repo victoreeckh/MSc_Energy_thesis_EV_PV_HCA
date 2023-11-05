@@ -197,5 +197,5 @@
                                    :height 1304.8816666666664}),
                           :page 1},
                :content {:text " The grid impact is particularly relevant because the conventional uncontrolled charging strategy, in which the EVs start to draw the rated power at the instant of connection, can result in numerous simultaneous charging events [6]"},
-               :properties {:color "red"}}],
- :extra {:page 1}}
+               :properties {:color "yellow"}}],
+ :extra {:page 2}}

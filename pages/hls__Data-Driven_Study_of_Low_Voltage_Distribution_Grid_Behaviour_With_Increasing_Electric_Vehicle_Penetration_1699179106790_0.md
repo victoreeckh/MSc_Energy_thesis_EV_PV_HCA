@@ -20,5 +20,6 @@ file-path:: ../assets/Data-Driven_Study_of_Low_Voltage_Distribution_Grid_Behavio
 - The grid impact is particularly relevant because the conventional uncontrolled charging strategy, in which the EVs start to draw the rated power at the instant of connection, can result in numerous simultaneous charging events [6]
   ls-type:: annotation
   hl-page:: 1
-  hl-color:: red
+  hl-color:: yellow
   id:: 65476d78-bdc6-4a5d-928b-85adf759796d
+  hl-stamp:: 1699179898360
