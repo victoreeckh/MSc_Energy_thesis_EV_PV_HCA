@@ -28,3 +28,9 @@ file-path:: ../assets/Data-Driven_Study_of_Low_Voltage_Distribution_Grid_Behavio
   hl-page:: 1
   hl-color:: yellow
   id:: 65476da3-82ef-47b2-933b-5ad8c6ad8512
+- The speciﬁc aim of our paper is to contribute towards this goal and provide a realistic insight based on the acquired on-ﬁeld data sets.
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: red
+  id:: 65476dbd-d11a-4d83-94f6-8e99e47b1cdb
+  hl-stamp:: 1699179967204
