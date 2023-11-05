@@ -27,12 +27,14 @@
 				- IEEE 123-bus feeder
 				- Arizona utility high penetration feeder
 		- Questions
-		- Input training data are vectors of voltage magnitudes and angles (load and PV profiles) etc. that are obtained through powerflow analysis, so the structure of the network still has to be known to generate the training set?
-			- -> Not modelfree?
-			- No topology identification?
-		- Why does longest path method work best?
+		  collapsed:: true
+			- Input training data are vectors of voltage magnitudes and angles (load and PV profiles) etc. that are obtained through powerflow analysis, so the structure of the network still has to be known to generate the training set?
+				- -> Not modelfree?
+				- No topology identification?
+			- Why does longest path method work best?
 	- ![Electrical_Model-Free_Voltage_Calculations_Using_Neural_Networks_and_Smart_Meter_Data.pdf](../assets/Electrical_Model-Free_Voltage_Calculations_Using_Neural_Networks_and_Smart_Meter_Data_1697314312902_0.pdf)
 		- Summary
+		  collapsed:: true
 			- ((653a6c83-5a32-41e7-8ea6-6e90002cf79b))
 			- ((653a6c6b-f406-4d21-a5fb-f506c4e177e6))
 			- ((653a7232-7fa7-4c86-b643-33f13a3fa5f6))
