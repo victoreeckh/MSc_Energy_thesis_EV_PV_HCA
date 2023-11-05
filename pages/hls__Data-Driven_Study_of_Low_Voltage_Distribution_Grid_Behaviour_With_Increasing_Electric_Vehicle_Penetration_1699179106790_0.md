@@ -34,3 +34,9 @@ file-path:: ../assets/Data-Driven_Study_of_Low_Voltage_Distribution_Grid_Behavio
   hl-color:: red
   id:: 65476dbd-d11a-4d83-94f6-8e99e47b1cdb
   hl-stamp:: 1699179967204
+- However, these papers consider standard test grids in the study and therefore, extending the insight with real distribution grid data can be useful.
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: blue
+  id:: 65476f2a-97fd-4826-85ad-0ee435fa8fe4
+  hl-stamp:: 1699180332263
